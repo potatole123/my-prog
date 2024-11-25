@@ -1,9 +1,8 @@
 # Site settings
-title: "Pain Intelligence Lab"
+title: Pain Intelligence Lab
 email: tof@stanford.edu
 description: >
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
+  Groundbreaking Pain Research
 lang: en-US
 
 baseurl: "" # the subpath of your site, e.g. /blog/
